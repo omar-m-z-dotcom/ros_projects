@@ -1,0 +1,1 @@
+.cpp -> preprocessing -> .ii -> compilation -> .s -> assemplier -> .o -> linker -> .exe
